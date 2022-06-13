@@ -1,0 +1,21 @@
+{
+  "name": "ecommerce-bootstrap",
+  "version": "1.0.0",
+  "description": "Ecommerce Model for my apps.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Ecommerce",
+    "HTML",
+    "Model"
+  ],
+  "author": "Ariel Gallardo",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "dotenv": "^16.0.1",
+    "live-server": "^1.2.2"
+  }
+}
